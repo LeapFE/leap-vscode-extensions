@@ -1,0 +1,36 @@
+{
+    "name": "leap-vscode-extensions",
+    "displayName": "leap-vscode-extensions",
+    "description": "leap vscode extensions",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "alefragnani.Bookmarks", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens", 
+        "EditorConfig.EditorConfig", 
+        "esbenp.prettier-vscode", 
+        "fisheva.eva-theme", 
+        "GitHub.github-vscode-theme", 
+        "Gruntfuggly.todo-tree", 
+        "jasontheiler.kelp-forest-theme-vscode", 
+        "jpoissonnier.vscode-styled-components", 
+        "jprestidge.theme-material-theme", 
+        "mikestead.dotenv", 
+        "ms-vscode-remote.remote-wsl", 
+        "niudai.remote-github", 
+        "PKief.material-icon-theme", 
+        "streetsidesoftware.code-spell-checker", 
+        "stuart.unique-window-colors", 
+        "stylelint.vscode-stylelint", 
+        "sysoev.language-stylus", 
+        "techer.open-in-browser", 
+        "vscode-icons-team.vscode-icons", 
+        "xabikos.JavaScriptSnippets"
+    ]
+}
