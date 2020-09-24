@@ -2,7 +2,7 @@
   "name": "leap-vscode-extensions",
   "displayName": "leap-vscode-extensions",
   "description": "leap vscode extensions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "front-end-captain",
   "repository": {
     "url": "https://github.com/LeapFE/leap-vscode-extensions"
