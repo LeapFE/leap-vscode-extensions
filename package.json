@@ -14,6 +14,10 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "wix.vscode-import-cost",
+    "kisstkondoros.vscode-gutter-preview",
+    "shd101wyy.markdown-preview-enhanced",
+    "jasonnutter.search-node-modules",
     "alefragnani.Bookmarks",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
